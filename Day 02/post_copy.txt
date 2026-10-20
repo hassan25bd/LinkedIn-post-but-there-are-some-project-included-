@@ -1,0 +1,29 @@
+﻿DAY 02 — "DO YOU LOVE ME?" INTERACTIVE LOVE BUTTON
+
+Do you love me? 💖
+
+A tiny question with a very stubborn "No" button. 😏
+Try to click it... if you can! Every attempt makes "Yes" bigger, and when you finally say Yes — hearts and confetti everywhere. 🎉
+
+Built with pure HTML, CSS and JavaScript. Zero libraries.
+
+Play it here: https://love-button-animation.vercel.app
+
+Try it, then send it to someone you love. 💕
+
+#HTML #CSS #JavaScript #WebDevelopment #FrontEnd #CodingProjects #ValentinesDay
+
+---
+
+বাংলা সংস্করণ:
+
+তুমি কি আমাকে ভালোবাসো? 💖
+
+একটা ছোট্ট প্রশ্ন আর এক জেদি "No" বাটন! 😏
+ক্লিক করতে পারলে করো... প্রতিবার চেষ্টা করলে "Yes" বাটন বড় হতে থাকবে, আর "Yes" বললেই হার্ট আর কনফেটির বৃষ্টি! 🎉
+
+শুধু HTML, CSS ও JavaScript দিয়ে তৈরি, কোনো লাইব্রেরি ছাড়া।
+
+কাউকে ভালোবাসলে তাকে পাঠিয়ে দাও। 💕
+
+#HTML #CSS #JavaScript #WebDevelopment #FrontEnd

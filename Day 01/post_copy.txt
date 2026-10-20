@@ -1,0 +1,35 @@
+LINKEDIN POST — HALLOWEEN CANDY HUNT
+
+TRICK OR TREAT? KNOCK IF YOU DARE! 🎃
+
+Three spooky houses. A bag full of surprises. 👻
+Click each front door to see what treats are hiding inside — and count how many you can collect!
+
+Which house will you knock on first? Try them all, then challenge a friend to beat your candy score. 🍬
+
+Play the interactive Halloween candy hunt: https://halloween-candy-hunt.vercel.app
+
+#Halloween #TrickOrTreat #CandyHunt #HalloweenFun
+
+বাংলা সংস্করণ
+
+ট্রিক অর ট্রিট? সাহস থাকলে দরজায় টোকা দাও! 🎃
+
+তিনটি ভুতুড়ে বাড়ি। আর ভেতরে লুকানো মজার মজার ক্যান্ডি! 👻
+প্রতিটি দরজায় ক্লিক করে দেখো ভেতরে কী ট্রিট লুকানো আছে—আর গুনে দেখো, কয়টা ক্যান্ডি জিততে পারো!
+
+প্রথমে কোন বাড়ির দরজায় টোকা দেবে? সবগুলো চেষ্টা করো, তারপর বন্ধুকে চ্যালেঞ্জ দাও—কে বেশি ক্যান্ডি জিততে পারে! 🍬
+
+ইন্টারঅ্যাকটিভ হ্যালোইন ক্যান্ডি হান্ট খেলুন: https://halloween-candy-hunt.vercel.app
+
+#হ্যালোইন #ট্রিকঅরট্রিট #ক্যান্ডিহান্ট #হ্যালোইনমজা
+
+ALT TEXT
+
+A dark, playful Halloween candy hunt with three spooky illustrated houses. Visitors click each house to open its door, see a ghost or bat peek out, and add animated candy to a candy-bag counter. Optional spooky sounds can be enabled.
+
+ASSET NOTES
+
+- Interactive candy hunt: open halloween_trick_or_treat.html in a browser, then click each house to reveal candy.
+- Sound is optional and starts only after the visitor turns it on.
+- To share the interactive experience on LinkedIn, publish the HTML page and add its public link to the post.
